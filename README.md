@@ -1,4 +1,4 @@
-# Smug Dance Taunt from A Hat In Time game.
+# CS:GO Bump Mines in TF2
 
 ### Features
 - Press \[Reload Key\] to throw bump mine and then touch it to activate.
